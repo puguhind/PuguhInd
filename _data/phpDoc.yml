@@ -1,0 +1,120 @@
+- id: master
+  type: branch
+  title: <code>master</code> branch
+  last_update: 1598714348
+- id: v1.0.0-beta.1
+  type: version
+  title: Pico 1.0.0-beta.1
+  last_update: 1446832680
+- id: v1.0.0-beta.2
+  type: version
+  title: Pico 1.0.0-beta.2
+  last_update: 1448902620
+- id: v1.0.0
+  type: version
+  title: Pico 1.0.0
+  last_update: 1450957500
+- id: v1.0.1
+  type: version
+  title: Pico 1.0.1
+  last_update: 1456594800
+- id: pico-1.1
+  type: branch
+  title: <code>pico-1.1</code> branch
+  last_update: 1530459189
+- id: v1.0.2
+  type: version
+  title: Pico 1.0.2
+  last_update: 1458132180
+- id: v1.0.3
+  type: version
+  title: Pico 1.0.3
+  last_update: 1463002694
+- id: v1.0.4
+  type: version
+  title: Pico 1.0.4
+  last_update: 1475580012
+- id: v1.0.5
+  type: version
+  title: Pico 1.0.5
+  last_update: 1493678993
+- id: v1.0.6
+  type: version
+  title: Pico 1.0.6
+  last_update: 1500988625
+- id: v2.0.0-beta.1
+  type: version
+  title: Pico 2.0.0-beta.1
+  last_update: 1509903883
+- id: v2.0.0-beta.2
+  type: version
+  title: Pico 2.0.0-beta.2
+  last_update: 1516574845
+- id: v2.0.0-beta.3
+  type: version
+  title: Pico 2.0.0-beta.3
+  last_update: 1523132936
+- id: v2.0.0
+  type: version
+  title: Pico 2.0.0
+  last_update: 1530462230
+- id: v2.0.1
+  type: version
+  title: Pico 2.0.1
+  last_update: 1532863564
+- id: v2.0.2
+  type: version
+  title: Pico 2.0.2
+  last_update: 1534102391
+- id: v2.0.3
+  type: version
+  title: Pico 2.0.3
+  last_update: 1543837751
+- id: v2.0.4
+  type: version
+  title: Pico 2.0.4
+  last_update: 1545059548
+- id: v2.0.5-beta.1
+  type: version
+  title: Pico 2.0.5-beta.1
+  last_update: 1546519072
+- id: pico-2.1
+  type: branch
+  title: <code>pico-2.1</code> branch
+  last_update: 1574639569
+- id: v2.1.0-beta.1
+  type: version
+  title: Pico 2.1.0-beta.1
+  last_update: 1572829819
+- id: v2.1.0
+  type: version
+  title: Pico 2.1.0
+  last_update: 1574640073
+- id: v2.1.1
+  type: version
+  title: Pico 2.1.1
+  last_update: 1577807154
+- id: v3.0.0-alpha.1
+  type: version
+  title: Pico 3.0.0-alpha.1
+  last_update: 1585489294
+- id: v2.1.2
+  type: version
+  title: Pico 2.1.2
+  last_update: 1586554727
+- id: v2.1.3
+  type: version
+  title: Pico 2.1.3
+  last_update: 1594400920
+- id: v2.1.4
+  type: version
+  title: Pico 2.1.4
+  last_update: 1598715103
+- id: v3.0.0-alpha.2
+  type: version
+  title: Pico 3.0.0-alpha.2
+  last_update: 1608848827
+- id: pico-3.0
+  type: branch
+  title: <code>pico-3.0</code> branch
+  last_update: 1616538123

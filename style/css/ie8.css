@@ -1,0 +1,61 @@
+body {
+    min-width: 1110px;
+}
+.forms fieldset .text-input,
+.forms fieldset .text-area,
+.searchform input,
+.comment-form input,
+.comment-form textarea {
+    padding-top: 8px;
+}
+.category-wrapper .category-info {
+    width: 100%;
+    height: auto;
+    float: none;
+    margin-bottom: 10px;
+}
+.category-wrapper .category-info h3 {
+    margin-bottom: 10px;
+}
+.category-wrapper .carousel-wrapper,
+.touch-carousel {
+    width: 100%;
+    float: none;
+}
+.top-wrapper { background-color: #2eae9b; }
+.top-wrapper > * { background-color: #2a2a2a; }
+.top-wrapper > header { filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0, FinishOpacity=100, style=1, StartX=15, FinishX=45); }
+.top-wrapper > header > .inner { position: relative; }
+/*-----------------------------------------------------------------------------------*/
+/*	Portfolio
+/*-----------------------------------------------------------------------------------*/
+.portfolio-detail-view {
+    min-width: 1110px;
+}
+.items li a .overlay,
+.fancybox .overlay  {
+    background-color: #2eae9b;
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+}
+.items li:hover a .overlay,
+.items li.active a .overlay,
+.fancybox:hover a .overlay {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=92);
+}
+.items li.defaultThumbnail a .overlay {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=92);
+}
+.items li.defaultThumbnail:hover a .overlay,
+.items li.defaultThumbnail.active a .overlay  {
+    background-color: #2eae9b;
+}
+.items li.defaultThumbnail a img {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);
+}
+.items li.defaultThumbnail:hover a img
+.items li.defaultThumbnail.active a img {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+}
+.portfolio-detail-view.card .content > .image.default {
+    display: none;
+}

@@ -1,0 +1,22 @@
+---
+layout: default
+title: Cookbook
+headline: Solutions Cookbook
+description: This page provides **recipes** and **solutions** for common tasks that arise when using Pico.
+redirect_from: /cookbook.html
+---
+
+{% for item in site.cookbook|sort:"nav" %}
+    <div class="toggle">
+        <h4 class="title">{{ item.title }}</h4>
+        <div class="togglebox">
+            <div>
+                {% if item.description %}
+                    <p>{{ item.description | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+                {% endif %}
+
+                {{ item.output }}
+            </div>
+        </div>
+    </div>
+{% endfor %}
